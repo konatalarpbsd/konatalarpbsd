@@ -7,6 +7,6 @@ Hi
 
 
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=konatalarpbsd&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=konatalarpbsd&show_icons=true&theme=dark)
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=konatalarpbsd&theme=tokyonight)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=konatalarpbsd&layout=compact&theme=dark)
