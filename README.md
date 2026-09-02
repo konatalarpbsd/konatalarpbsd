@@ -7,6 +7,7 @@ Hi
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=konatalarpbsd&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konatalarpbsd&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=konatalarpbsd&show_icons=true&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konatalarpbsd&layout=compact&langs_count=8&theme=dark" height="180"/>
+</p>
